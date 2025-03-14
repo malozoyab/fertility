@@ -83,7 +83,7 @@ spring,35,yes,yes,no,no,hardly ever or never,never,11,Normal
 winter,33,yes,yes,yes,no,once a week,occasional,3,Normal
 spring,35,yes,no,no,no,several times a week,never,3,Normal
 spring,33,yes,yes,yes,no,hardly ever or never,never,5,Normal
-spring,32,yes,no,no,no,hardly ever or never,daily,1,Altered
+spring,32,yes,no,no,no,every day,daily,1,Altered
 spring,34,yes,yes,no,more than 3 months ago,several times a week,daily,6,Normal
 spring,32,yes,yes,yes,more than 3 months ago,several times a week,daily,5,Normal
 spring,32,yes,yes,yes,no,once a week,daily,5,Normal
@@ -91,9 +91,12 @@ spring,33,yes,yes,yes,more than 3 months ago,hardly ever or never,never,6,Normal
 spring,33,yes,yes,yes,more than 3 months ago,hardly ever or never,daily,7,Normal
 spring,33,yes,yes,yes,no,once a week,never,7,Normal
 summer,32,yes,no,no,more than 3 months ago,hardly ever or never,daily,1,Normal
+summer,28,yes,no,yes,no,several times a week,never,9,Altered
 summer,32,yes,yes,no,more than 3 months ago,once a week,never,7,Normal
-summer,32,yes,no,yes,more than 3 months ago,once a week,never,8,Altered
+summer,32,yes,no,yes,more than 3 months ago,every day,never,8,Altered
 fall,28,yes,no,no,more than 3 months ago,several times a week,daily,9,Normal
+fall,31,no,yes,no,no,several times a week,never,4,Altered
+fall,29,no,no,no,yes,several times a week,occasional,6,Altered
 winter,30,yes,no,no,more than 3 months ago,hardly ever or never,never,9,Normal
 winter,29,yes,no,no,more than 3 months ago,once a week,occasional,9,Normal
 winter,30,yes,yes,yes,more than 3 months ago,hardly ever or never,never,6,Normal
@@ -101,3 +104,8 @@ winter,30,yes,no,yes,more than 3 months ago,hardly ever or never,occasional,3,No
 winter,30,no,yes,yes,more than 3 months ago,several times a week,never,3,Normal
 winter,32,no,no,no,more than 3 months ago,once a week,never,13,Altered
 spring,33,no,no,no,more than 3 months ago,once a week,never,16,Altered
+summer,33,yes,no,yes,no,every day,occasional,5,Altered
+summer,28,yes,no,no,yes,several times a week,occasional,12,Altered
+summer,29,yes,yes,yes,more than 3 months ago,hardly ever or never,occasional,8,Altered
+summer,34,yes,no,no,less than 3 months ago,every day,occasional,8,Altered
+summer,30,no,no,no,no,every day,occasional,10,Altered
